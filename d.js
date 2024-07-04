@@ -39,6 +39,8 @@ console.log("O herói de nome " + heroi + " está no nível: " + nivelHeroi)
 if(nivelHeroi >= 10001){
     nivelHeroi = "Radiante"
 console.log("-> O herói de nome " + heroi + " está no nível: " + nivelHeroi)   
+
+   if(nivelheroiteste)
 }
 
 
